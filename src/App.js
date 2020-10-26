@@ -11,8 +11,8 @@ const App = () => {
         <Fragment>
           <div className="col text-center">
             <Link to="/" className="btn btn-info ">
-              <HouseFill color="black" size={50}/>
-          </Link>
+              <HouseFill color="#2C3532" size={50} />
+            </Link>
             <Switch>
               <Route exact path="/" component={Home} />
               <Route path="/:id/details" component={PhotoCard} />

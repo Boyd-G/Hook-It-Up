@@ -1,56 +1,51 @@
 body {
-    background-image: url('https://i.pinimg.com/originals/5f/95/76/5f95764cf7fd7154f8162cffef5c1227.jpg');
-    background-repeat: repeat;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
+  background-image: url("https://i.pinimg.com/originals/5f/95/76/5f95764cf7fd7154f8162cffef5c1227.jpg");
+  background-repeat: repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .btn {
-    background: #85dcb8;
-    font-family: "Rubik", sans-serif;
-    font-size: 24pt;
-    color: #c38d9e;
-    border-radius: 50%;
-
+  background: #d2e8e3;
+  border-radius: 50%;
 }
 
 .card {
-    background-color: #d9b08c;
-    font-family: "Rubik", sans-serif;
-    font-size: 24pt;
-    margin-bottom: 15px;
+  background-color: #d9b08c;
+  font-family: "Rubik", sans-serif;
+  font-size: 24pt;
+  margin-bottom: 15px;
 }
 
-.card>a:link {
-    color: #116466;
-    border-radius: 35%;
+.card > a:link {
+  color: #116466;
+  border-radius: 35%;
 }
 
-.card>a:visited {
-    color:  #5a5454;
+.card > a:visited {
+  color: #5a5454;
 }
 
 .card-body {
-    background-color: #ffcb9a;
+  background-color: #ffcb9a;
 }
 
 .card1 {
-    font-family: "Rubik", sans-serif;
-    font-size: 32pt;
+  font-family: "Rubik", sans-serif;
+  font-size: 32pt;
 }
 
 .card-body1 {
-    background-color: #e8a87c;
-    font-family: "Rubik", sans-serif;
-    font-size: 32pt;
-    border-radius: 10px;
+  background-color: #ffcb9a;
+  font-family: "Rubik", sans-serif;
+  font-size: 32pt;
+  border-radius: 10px;
 }
 
 .card-title1 {
-    background-color: #e8a87c;
-    font-family: "Rubik", sans-serif;
-    border-radius: 10px;
-    color: #5A5454;
+  background-color: #d9b08c;
+  font-family: "Rubik", sans-serif;
+  border-radius: 10px;
+  color: #116466;
 }
